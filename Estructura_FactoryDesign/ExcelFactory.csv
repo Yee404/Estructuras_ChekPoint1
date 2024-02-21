@@ -1,0 +1,3 @@
+﻿NombreE,CursoE,NotaE,SeccionE,NombreD,CursoD,SeccionD,NombrePago,Cantidad,Fecha,Usuario,Rol
+Est1,Mate,90,500,Docen1,Mate,500,Est1,1000,20/02/2024,Est1,Estudiante
+,,,,,,,Docen1,1500,20/02/2024,Docen1,Docente
